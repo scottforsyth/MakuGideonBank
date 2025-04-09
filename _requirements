@@ -1,0 +1,23 @@
+# Banking Application Requirements
+
+## Overview
+Text-based Java application for a school assignment that simulates a basic banking system.
+
+## Core Features
+1. Account Management
+   - Support for 4 different accounts, each with unique account numbers
+   - Display account balance
+
+2. Transactions
+   - Process deposits and withdrawals
+   - Handle multiple transaction types in single interaction
+   - Maintain transaction history
+
+3. Data Storage
+   - Store account data in local files
+   - Store transaction history in local files
+   - Store account numbers in local files
+
+## Implementation Notes
+- All transactions are virtual (text-based input/output only)
+- No actual financial transactions will be processed
